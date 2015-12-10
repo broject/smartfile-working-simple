@@ -1,0 +1,7 @@
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFileTest\bin\Debug\SmartFileTest.exe
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFileTest\bin\Debug\SmartFileTest.pdb
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFileTest\bin\Debug\SmartFile.dll
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFileTest\bin\Debug\SmartFile.pdb
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFileTest\obj\x86\Debug\SmartFileTest.csprojResolveAssemblyReference.cache
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFileTest\obj\x86\Debug\SmartFileTest.exe
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFileTest\obj\x86\Debug\SmartFileTest.pdb

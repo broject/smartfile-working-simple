@@ -1,0 +1,5 @@
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFile\bin\Debug\SmartFile.dll
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFile\bin\Debug\SmartFile.pdb
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFile\obj\x86\Debug\SmartFile.csprojResolveAssemblyReference.cache
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFile\obj\x86\Debug\SmartFile.dll
+D:\Software\c#.net.nodejs.projects\ChatApp\client-csharp-master\SmartFile\obj\x86\Debug\SmartFile.pdb
